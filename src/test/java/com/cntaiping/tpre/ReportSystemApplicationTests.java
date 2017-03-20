@@ -1,4 +1,4 @@
-package com.taiping.tpre;
+package com.cntaiping.tpre;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
